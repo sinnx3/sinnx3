@@ -1,6 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on: N/A
 - 🌱 I’m currently learning: Cybersecurity
@@ -17,8 +17,27 @@ StandWithUkraine:
 Russian Warship:
 [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 
-Made in Ukraine:
-[![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
+## Join me on The Other Realm
+[<img align="left" alt="sinnx3" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sinnx3 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="sinnx3 | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="sinnx3 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
+
+<br>
+
+## Favorite Technologies
+
+[<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3282b8">][linux]<br>
+[<img src="https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=3282b8">][vscode]<br>
+[<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3282b8">][bash]<br>
+
+[youtube]: https://www.youtube.com/channel/UC2zAu67W9CoPYp-lnNLblwQ
+[reddit]: https://www.reddit.com/user/LowEviction
+[discord]: https://discord.gg/txkyG2vWFp
+[linux]: https://www.linux.org/
+[vscode]: https://github.com/microsoft/vscode
+[bash]: https://www.gnu.org/software/bash/
+[website]: https://dontasktoask.com/
 
 <!--
 **sinnx3/sinnx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
