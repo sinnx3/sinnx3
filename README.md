@@ -3,6 +3,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on: N/A
+- 📡 A little obsessed with Starlink (I'm sure it will wear off)
 - 🌱 I’m currently learning: Cybersecurity
 - 👯 I’m looking to collaborate on: N/A
 - 🤔 I’m looking for help with: N/A
