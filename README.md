@@ -23,7 +23,7 @@ Russian Warship:
 [<img align="left" alt="sinnx3 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="sinnx3 | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 [<img align="left" alt="sinnx3 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
-[<img align="left" alt="sinnx3 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg" />][twitch]
+[<img align="left" alt="sinnx3 | Kick" width="22px" src="https://dbxmjjzl5pc1g.cloudfront.net/778f3d61-74c5-4493-8950-ea026bff72a3/favicon.svg" />][kick]
 
 <br>
 
@@ -36,7 +36,7 @@ Russian Warship:
 [youtube]: https://www.youtube.com/channel/UC2zAu67W9CoPYp-lnNLblwQ
 [reddit]: https://www.reddit.com/user/LowEviction
 [discord]: https://discord.gg/txkyG2vWFp
-[twitch]: https://twitch.tv/sinnx3
+[kick]: https://kick.com/sinnx3
 [linux]: https://www.linux.org/
 [vscode]: https://github.com/microsoft/vscode
 [bash]: https://www.gnu.org/software/bash/
