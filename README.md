@@ -34,7 +34,7 @@ Russian Warship:
 [<img src="https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=3282b8">][vscode]<br>
 [<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3282b8">][bash]<br>
 
-[youtube]: https://www.youtube.com/channel/UC2zAu67W9CoPYp-lnNLblwQ
+[youtube]: https://www.youtube.com/@ttv_sinnx3
 [reddit]: https://www.reddit.com/user/LowEviction
 [discord]: https://discord.gg/txkyG2vWFp
 [kick]: https://kick.com/sinnx3
