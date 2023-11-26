@@ -20,10 +20,11 @@ Russian Warship:
 
 ## Join me on The Other Realm
 [<img align="left" alt="sinnx3" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="sinnx3 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="sinnx3 | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="sinnx3 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
+[<img align="left" alt="sinnx3 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.0.0/icons/youtube.svg" />][youtube]
+[<img align="left" alt="sinnx3 | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.0.0/icons/reddit.svg" />][reddit]
+[<img align="left" alt="sinnx3 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.0.0/icons/discord.svg" />][discord]
 [<img align="left" alt="sinnx3 | Kick" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.0.0/icons/kick.svg" />][kick]
+[<img align="left" alt="sinnx3 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.0.0/icons/twitch.svg" />][twitch]
 
 <br>
 
@@ -37,6 +38,7 @@ Russian Warship:
 [reddit]: https://www.reddit.com/user/LowEviction
 [discord]: https://discord.gg/txkyG2vWFp
 [kick]: https://kick.com/sinnx3
+[twitch]: https://twitch.tv/sinnx3
 [linux]: https://www.linux.org/
 [vscode]: https://github.com/microsoft/vscode
 [bash]: https://www.gnu.org/software/bash/
