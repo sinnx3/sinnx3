@@ -19,17 +19,17 @@ Russian Warship:
 [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 
 ## Have I been helpful or useful? Consider sending a tip!
-[<img align="left" alt="sinnx3 | CashApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.0.0/icons/cashapp.svg" />][cashapp]
+[<img align="left" alt="sinnx3 | CashApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.4.0/icons/cashapp.svg" />][cashapp]
 
 <br>
 
 ## Join me on The Other Realm
 [<img align="left" alt="sinnx3" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="sinnx3 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.0.0/icons/youtube.svg" />][youtube]
-[<img align="left" alt="sinnx3 | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.0.0/icons/reddit.svg" />][reddit]
-[<img align="left" alt="sinnx3 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.0.0/icons/discord.svg" />][discord]
-[<img align="left" alt="sinnx3 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.0.0/icons/twitch.svg" />][twitch]
-[<img align="left" alt="sinnx3 | Kick" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.0.0/icons/kick.svg" />][kick]
+[<img align="left" alt="sinnx3 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.4.0/icons/youtube.svg" />][youtube]
+[<img align="left" alt="sinnx3 | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.4.0/icons/reddit.svg" />][reddit]
+[<img align="left" alt="sinnx3 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.4.0/icons/discord.svg" />][discord]
+[<img align="left" alt="sinnx3 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.4.0/icons/twitch.svg" />][twitch]
+[<img align="left" alt="sinnx3 | Kick" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.4.0/icons/kick.svg" />][kick]
 
 <br>
 
