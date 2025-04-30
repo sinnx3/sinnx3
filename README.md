@@ -49,7 +49,7 @@ Russian Warship:
 [bash]: https://www.gnu.org/software/bash/
 [website]: https://dontasktoask.com/
 [cashapp]: https://cash.app/$sinnx3
-
+<meta name="p:domain_verify" content="bbfd34b97524e3c08e5743453a6a64d4"/>
 <!--
 **sinnx3/sinnx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
