@@ -1,9 +1,7 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-
 # Hi there 👋
 
 - 🔭 I’m currently working on: N/A
-- 📡 A little obsessed with Starlink (I'm sure it will wear off)
+- 📡 A little obsessed with BitAxe/NerdAxe/OSMU
 - 🌱 I’m currently learning: Cybersecurity
 - 👯 I’m looking to collaborate on: N/A
 - 🤔 I’m looking for help with: N/A
@@ -12,15 +10,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have Autism - Level 1 ASD (Formerly known as Aspergers Syndrome).
 
-StandWithUkraine:
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-
-Russian Warship:
-[![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
-
 ## Have I been helpful or useful? Consider sending a tip!
 [<img align="left" alt="sinnx3 | CashApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.4.0/icons/cashapp.svg" />][cashapp]
-
+<br>
+<br>
+Bitcoin: bc1q9mca0p9j6mfgy6n2g7lhh7g6hrg3hjf2ztquc6
 <br>
 
 ## Join me on The Other Realm
