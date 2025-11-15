@@ -14,7 +14,14 @@
 [<img align="left" alt="sinnx3 | CashApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.4.0/icons/cashapp.svg" />][cashapp]
 <br>
 <br>
-Bitcoin: bc1q9mca0p9j6mfgy6n2g7lhh7g6hrg3hjf2ztquc6
+```json
+{
+  "donation": [
+    "bc1q9mca0p9j6mfgy6n2g7lhh7g6hrg3hjf2ztquc6",
+    "+rebeldevelopment19"
+  ]
+}
+```
 <br>
 
 ## Join me on The Other Realm
